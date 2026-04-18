@@ -53,7 +53,7 @@ A fully functional **Car Rental System** developed in **Java** using **Swing GUI
 
 ## 📂 How to Run
 
-1. Clone the repo:  git clone https://github.com/Dev-ZishanKhan/Car-Rental-System-GUI.git
+1. Clone the repo:  git clone https://github.com/Zishan-AI-Eng/Car-Rental-System-GUI.git
 
 2. Open in IntelliJ or Eclipse.
 
